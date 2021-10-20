@@ -1,0 +1,13 @@
+{
+  "stringTest": "Hello EPAM",
+  "arrayTest": [
+    {
+      "name": "Peuqeot",
+      "model": "2008"
+    },
+    {
+      "name": "Mercedes-Benz",
+      "model": "A220"
+    }
+  ]
+}
